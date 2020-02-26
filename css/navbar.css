@@ -1,0 +1,11 @@
+nav .logo img{
+    width: 50px;
+}
+
+nav .logo a{
+    text-decoration: none;
+}
+
+nav .logo a span{
+    color: white;    
+}
